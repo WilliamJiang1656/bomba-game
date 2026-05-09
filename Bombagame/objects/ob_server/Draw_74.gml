@@ -1,1 +1,0 @@
-draw_set_font(fn_card);

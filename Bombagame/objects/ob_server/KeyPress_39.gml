@@ -1,1 +1,0 @@
-scr_resize_browser()
